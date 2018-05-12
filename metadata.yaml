@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32143
 description: The work of Christ -- His past work -- His present work -- His future
   work.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26643#The-Work-Of-Christ--Past-Present-and-Future
 gutenberg_issued: '2008-09-17'
 gutenberg_type: Text
 identifiers:
